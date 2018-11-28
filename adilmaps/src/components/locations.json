@@ -1,0 +1,68 @@
+ [
+                {
+                    "name": "Bhashyam",
+                    "type": " College",
+                  	"Address": "Guntur,Gorantla",
+                  	"latitude": 16.334748,
+                    "longitude":80.449140
+                },
+                {
+                    "name": "NTR mansasarovar",
+                    "type": " Park",
+                    "streetAddress": "AutoNager",
+                    "latitude": 16.301323,
+                    "longitude":80.480695
+                },
+                {
+                    "name": "Guntur Bus Station",
+                    "type": "",
+                    "streetAddress": "opposite Ramakrishna Mission Ashrama, Visakhapatnam, Andhra Pradesh 530003",
+                    "latitude": 16.295753,
+                    "longitude":80.456390 
+                },
+                {
+                    "name": "Cine Prime Cinemas",
+                    "type": " ",
+                    "streetAddress": " Daba Garden Rd, Prakasharao Peta, Daba Gardens, Ram Nagar, Visakhapatnam, Andhra Pradesh 530020",
+                    "latitude": 16.291592,
+                    "longitude":80.436814
+                },
+                {
+                    "name": "Grand Nagarjuna",
+                    "type": " ",
+                    "streetAddress": " Maddilapalem, Visakhapatnam, Andhra Pradesh 530013",
+                    "latitude": 16.305084,
+                    "longitude": 80.437177
+                },
+                {
+                    "name": "Guntur Mirchi Yard",
+                    "type": "",
+                    "latitude": 16.286465,
+                    "longitude": 80.410705,
+                    "streetAddress": "Beach Rd, Kailasagiri Arch, Chinna Waltair, Jalari Peta, Visakhapatnam, Andhra Pradesh 530017"
+                },
+                {
+                    "name": "Guntur Medical College (GMC)",
+                    "type": "",
+                    "streetAddress": "Gandhi Nagar, Rushikonda, Visakhapatnam, Andhra Pradesh 530045",
+                    "latitude": 16.296284,
+                    "longitude": 80.432594
+                },
+                {
+                    "name": "skin care",
+                    "type": "Hospital",
+                    "streetAddress": "Near Dairy Farm, Yendada Nursery, Visakhapatnam, Andhra Pradesh 530040",
+                    "latitude": 16.310208,
+                    "longitude": 80.430534
+                   
+                },
+                {
+                    "name": "Spencers Hyper Guntur",
+                    "type": "",
+                    "streetAddress": "Waltair Junction, AU North Campus, Andhra University North Campus, Andhra University, Visakhapatnam, Andhra Pradesh 530003, India",
+                    "latitude": 16.314191,
+                    "longitude": 80.419726
+                    
+                }
+                
+            ]

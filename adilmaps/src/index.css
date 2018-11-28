@@ -1,0 +1,78 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Eater', cursive;
+}
+
+.Lists {
+    background: #2BBBAD;
+    border: 0px solid darkgrey;
+    overflow: auto;
+    padding: 0px;
+    margin: 0px;
+    max-height: 350px;
+    overflow: auto;
+    width: 320px;
+    border-radius: 10px;
+    color:#311b92 ;
+
+}
+
+.Syed {
+    cursor: pointer;
+    padding: 5px;
+}
+
+.saw {
+    z-index: 1;
+    position: fixed;
+    top: 70px;
+    left: 0px;
+    width: 320px;
+    margin-top: -35px;
+   
+}
+
+.saw-field {
+    width: 250px;
+    background-color: #f0f4c3;
+    color: #1b5e20 ;
+    padding: 8px;
+    text-align: left;
+    position: fixed;
+    font-size: 15px;
+
+}
+
+.Syed:hover {
+    background-color: #fff;
+    color: #e65100;
+}
+
+.Plug {
+    text-align: center;
+    padding: 5px;
+    background-color: #d7ccc8;
+    border: 2px white solid;
+    cursor: pointer;
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+}
+.meer {
+    border-radius: 30px;
+    border-top: 40px;
+    text-align: center;
+    position: fixed;
+    z-index: 1000;
+    
+}
+
+h2 {
+    text-align: center;
+    color: red;
+    background-color: #3F729B;
+   margin-top: -10px;
+   margin-bottom: -10px;
+    font-size: 30px;
+}
